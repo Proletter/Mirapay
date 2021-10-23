@@ -1,0 +1,16 @@
+.button_elem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom_text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.bottom_text span {
+    margin-left: 2px;
+}

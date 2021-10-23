@@ -1,0 +1,31 @@
+.container {
+    height: 40em;
+    width: 30em;
+    display: grid;
+    place-items: center;
+    text-align: center;      
+}
+
+.btn_style {
+    height: 50%;
+    width: 40%;
+    display: grid;
+    place-items: center; 
+    align-self: flex-end;
+
+    
+}
+
+
+.img_style {
+    /* height: 20%; */
+    width: 20%
+}
+
+.img_style_positive {
+    width: 50%
+}
+
+.button_verfied {
+    width: 45%
+}

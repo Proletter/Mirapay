@@ -1,0 +1,14 @@
+.container {
+    /* display: grid;
+   place-items: center; */
+   border-radius: 10px;
+   height: 100%;
+   width: 40em;
+  
+   align-items: center;
+}
+
+.container_text{
+ text-align: center;
+ margin-bottom: 2em;
+}

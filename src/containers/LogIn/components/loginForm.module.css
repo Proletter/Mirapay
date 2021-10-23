@@ -1,0 +1,10 @@
+.loginForm{
+
+    height: 3px;
+}
+
+.button_elem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
